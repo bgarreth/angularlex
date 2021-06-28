@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amngularchatbot-dev-143326-authRole",
+      "UnauthRoleArn": "arn:aws:iam::299854659728:role/amplify-amngularchatbot-dev-143326-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::299854659728:role/amplify-amngularchatbot-dev-143326-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-amngularchatbot-dev-143326-deployment",
+      "UnauthRoleName": "amplify-amngularchatbot-dev-143326-unauthRole",
+      "StackName": "amplify-amngularchatbot-dev-143326",
+      "StackId": "arn:aws:cloudformation:eu-west-1:299854659728:stack/amplify-amngularchatbot-dev-143326/3523ffc0-a11c-11eb-b48b-027a333ef717",
+      "AmplifyAppId": "dce7wubixqxd4"
+    },
+    "categories": {
+      "auth": {
+        "cognitodb1e9c42": {}
+      },
+      "interactions": {
+        "angularbot": {
+          "deploymentBucketName": "amplify-amngularchatbot-dev-143326-deployment",
+          "s3Key": "amplify-builds/angularbot-385536724e46346a6f53-build.zip"
+        }
+      }
+    }
+  }
+}
